@@ -1,0 +1,101 @@
+ID,Date,Temperature,Humidity,City,Status,Sensor_Code
+1,2026-01-01,19.4,61.0,Paris,Active,SN001
+2,,33.8,,New York,,SN002
+3,2026-01-03,28.3,78.0,Paris,Inactive,SN003
+4,2026-01-04,25.0,61.0,Paris,Active,SN004
+5,2026-01-05,13.9,33.0,Paris,Active,SN005
+6,2026-01-06,,59.0,Tokyo,Inactive,SN006
+7,2026-01-07,11.5,66.0,Tokyo,,SN007
+8,2026-01-08,31.7,52.0,Paris,Inactive,SN008
+9,2026-01-09,25.0,68.0,Tokyo,Inactive,SN009
+10,,27.7,74.0,London,Inactive,SN010
+11,,10.5,44.0,London,Inactive,SN011
+12,2026-01-12,34.2,72.0,,Inactive,SN012
+13,2026-01-13,30.8,58.0,Tokyo,Active,SN013
+14,2026-01-14,,65.0,Paris,Active,
+15,2026-01-15,,42.0,,Inactive,SN015
+16,2026-01-16,14.6,61.0,Tokyo,Inactive,
+17,2026-01-17,17.6,36.0,London,Active,SN017
+18,,23.1,51.0,Paris,Active,SN018
+19,2026-01-19,20.8,57.0,Tokyo,Inactive,SN019
+20,2026-01-20,17.3,31.0,London,,SN020
+21,2026-01-21,25.3,71.0,London,Inactive,SN021
+22,2026-01-22,,74.0,New York,Active,SN022
+23,2026-01-23,17.3,35.0,Paris,Inactive,SN023
+24,2026-01-24,19.2,57.0,Paris,,SN024
+25,2026-01-25,21.4,57.0,New York,Inactive,SN025
+26,2026-01-26,29.6,73.0,New York,Active,SN026
+27,,15.0,73.0,Paris,Active,SN027
+28,2026-01-28,,49.0,Paris,Inactive,SN028
+29,,24.8,59.0,Tokyo,Active,SN029
+30,2026-01-30,11.2,,Tokyo,Inactive,SN030
+31,2026-01-31,25.2,57.0,New York,Active,SN031
+32,2026-02-01,14.3,54.0,Tokyo,Inactive,
+33,2026-02-02,11.6,68.0,London,,SN033
+34,2026-02-03,33.7,,Tokyo,Inactive,SN034
+35,2026-02-04,34.1,30.0,Tokyo,Active,
+36,2026-02-05,30.2,56.0,London,,SN036
+37,2026-02-06,17.6,42.0,,,SN037
+38,,12.4,70.0,London,Inactive,SN038
+39,2026-02-08,27.1,32.0,,,SN039
+40,2026-02-09,21.0,68.0,,Inactive,SN040
+41,2026-02-10,13.1,35.0,Tokyo,Active,SN041
+42,2026-02-11,22.4,37.0,London,Inactive,SN042
+43,,10.9,56.0,,Active,SN043
+44,2026-02-13,32.7,38.0,,Inactive,SN044
+45,2026-02-14,16.5,66.0,Paris,Active,
+46,2026-02-15,26.6,62.0,Paris,Inactive,SN046
+47,2026-02-16,,71.0,London,Active,SN047
+48,2026-02-17,23.0,,London,Active,SN048
+49,2026-02-18,,53.0,Paris,,SN049
+50,2026-02-19,14.6,44.0,Paris,Active,
+51,2026-02-20,34.2,61.0,Tokyo,Active,
+52,2026-02-21,29.4,61.0,Tokyo,Inactive,SN052
+53,2026-02-22,33.5,53.0,Paris,Active,SN053
+54,2026-02-23,32.4,70.0,Tokyo,Active,SN054
+55,2026-02-24,24.9,78.0,Tokyo,Active,SN055
+56,2026-02-25,,78.0,New York,Inactive,SN056
+57,2026-02-26,12.2,41.0,Tokyo,Active,SN057
+58,2026-02-27,14.9,68.0,London,Inactive,
+59,,11.1,31.0,Tokyo,Active,SN059
+60,2026-03-01,18.1,32.0,Tokyo,Active,SN060
+61,2026-03-02,19.7,,Paris,Active,SN061
+62,2026-03-03,,66.0,,,SN062
+63,2026-03-04,30.7,78.0,Tokyo,Active,SN063
+64,,,46.0,Tokyo,Active,SN064
+65,2026-03-06,17.0,78.0,New York,,SN065
+66,2026-03-07,23.6,31.0,Tokyo,Active,SN066
+67,2026-03-08,13.5,,Tokyo,Inactive,SN067
+68,2026-03-09,30.1,57.0,,Inactive,SN068
+69,,11.9,,Paris,Active,SN069
+70,2026-03-11,34.7,66.0,Tokyo,Inactive,SN070
+71,2026-03-12,,61.0,New York,Active,SN071
+72,2026-03-13,,62.0,London,Inactive,SN072
+73,,,,Paris,Inactive,SN073
+74,2026-03-15,30.4,48.0,London,,SN074
+75,2026-03-16,27.7,31.0,London,Inactive,SN075
+76,2026-03-17,28.2,73.0,New York,Inactive,SN076
+77,2026-03-18,29.3,55.0,Tokyo,Inactive,
+78,2026-03-19,11.9,61.0,,Inactive,
+79,2026-03-20,19.0,35.0,New York,Inactive,SN079
+80,,12.9,61.0,New York,Active,
+81,2026-03-22,31.6,33.0,New York,,SN081
+82,2026-03-23,25.6,,Paris,Active,
+83,2026-03-24,18.3,46.0,Tokyo,Inactive,SN083
+84,2026-03-25,11.6,,London,Active,SN084
+85,,17.8,53.0,,Active,SN085
+86,2026-03-27,18.1,,Tokyo,Inactive,SN086
+87,2026-03-28,28.2,63.0,London,Inactive,
+88,2026-03-29,25.9,,Tokyo,Inactive,SN088
+89,2026-03-30,32.2,51.0,London,Active,SN089
+90,2026-03-31,21.8,,New York,Inactive,SN090
+91,2026-04-01,13.0,77.0,London,Active,SN091
+92,2026-04-02,27.8,45.0,Tokyo,Active,SN092
+93,,,62.0,,Active,SN093
+94,2026-04-04,24.0,38.0,,,SN094
+95,2026-04-05,29.3,35.0,Tokyo,Inactive,SN095
+96,2026-04-06,22.3,45.0,Tokyo,Active,SN096
+97,2026-04-07,,58.0,,Active,SN097
+98,2026-04-08,20.7,,Paris,Inactive,
+99,2026-04-09,10.6,49.0,London,Active,SN099
+100,2026-04-10,12.7,,,,
